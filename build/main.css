@@ -1,0 +1,7 @@
+.answer-container {
+    background-color: var(--bs-light);
+}
+
+.answer-container:hover {
+    border: 1px solid var(--bs-primary);
+}

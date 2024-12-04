@@ -1,5 +1,5 @@
 const QUESTIONS_NUMBER = 10
-const TIME_ALLOWED = 60 * 60 * 1000
+const TIME_ALLOWED = 10 * 60 * 1000
 const QUIZ_START_TIME = Date.now()
 
 const timerElement = document.querySelector("#timer-display") as HTMLHeadingElement
